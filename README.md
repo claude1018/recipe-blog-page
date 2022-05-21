@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://claude1018.github.io/recipe-blog-page/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://devchallenges.io/solutions/RTWN31at3o40dEL8TVwG">
       Solution
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-challenge}">
+    <a href="https://devchallenges.io/challenges/OEKdUZ6xs0h99C38XVht">
       Challenge
     </a>
   </h3>
@@ -64,7 +64,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) instal
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/your-user-name/your-project-name
+$ git clone https://github.com/claude1018/recipe-blog-page.git
 
 ```
 
