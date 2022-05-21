@@ -361,7 +361,7 @@ footer {
   }
 
   .recipe__header {
-    padding-top: 3em;
+    padding-top: 2.8em;
   }
   .recipe__header--title {
     font-size: 3rem;
@@ -386,6 +386,11 @@ footer {
     border-radius: 12px;
     width: max-content;
     padding: 3.8em 3em;
+  }
+
+  .recipe__ingredients--details__servings
+    + .recipe__ingredients--details__servings {
+    margin-top: 3em;
   }
   .recipe__ingredients--details__time--wrapper
     + .recipe__ingredients--details__time--wrapper {
