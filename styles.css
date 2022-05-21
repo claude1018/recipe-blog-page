@@ -388,11 +388,7 @@ footer {
     padding: 3.8em 3em;
   }
 
-  .recipe__ingredients--details__servings {
-    margin-bottom: 3em;
-  }
-  .recipe__ingredients--details__time--wrapper
-    + .recipe__ingredients--details__time--wrapper {
+  .recipe__ingredients--details__time--wrapper {
     margin-top: 3em;
   }
 
